@@ -1,0 +1,9 @@
+
+Wed May 24 15:24:50 2023
+
+
+1	pretty	7094565171	3 seats	First class	Rs : 900
+Wed May 24 15:24:50 2023
+
+
+2	player2	6369865779	2 seats	Second class	Rs : 400
