@@ -159,7 +159,6 @@ case 3:
 case 4:
    exit();
    break;
-default:
  
 }
 }
